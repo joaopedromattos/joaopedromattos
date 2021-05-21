@@ -5,24 +5,15 @@
 
 ## About me
 
-I am a student of Computer Science at the University of São Paulo (USP), Brazil. My main areas of interest are Machine Learning, Natural Language Processing and Human-Computer Interaction.
+I am a student of Computer Science at the University of São Paulo (USP), Brazil. My main areas of interest are Data Science, Machine Learning and Deep Learning.
 
 Currently working as an Undergraduate Research Assistant and Analytics Intern :rocket:
 
 Feel free to reach me either by social media or email (joao_pedro_mattos@hotmail.com).
 
-## What I mostly use
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-
 ## Research Interests
 - Natural Language Processing
-- Deep Learning
+- Geometric Deep Learning
 - Human Computer Interaction
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaopedromattos)](https://github.com/anuraghazra/github-readme-stats)
