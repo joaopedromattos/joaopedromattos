@@ -5,9 +5,7 @@
 
 ## About me
 
-I am a student of Computer Science at the University of São Paulo (USP), Brazil. My main areas of interest are Data Science, Machine Learning and Deep Learning.
-
-Currently working as an Undergraduate Research Assistant and Analytics Intern :rocket:
+I am a PhD Student in Computer Science at Rice University.
 
 Feel free to reach me either by social media or email (joao_pedro_mattos@hotmail.com).
 
