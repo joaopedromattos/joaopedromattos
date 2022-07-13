@@ -10,9 +10,9 @@ I am a PhD Student in Computer Science at Rice University.
 Feel free to reach me either by social media or email (joao_pedro_mattos@hotmail.com).
 
 ## Research Interests
-- Natural Language Processing
+- Machine Learning
+- Data Mining
 - Geometric Deep Learning
-- Human Computer Interaction
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaopedromattos)](https://github.com/anuraghazra/github-readme-stats)
 
