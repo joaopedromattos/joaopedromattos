@@ -14,8 +14,6 @@ Feel free to reach me either by social media or email (joao_pedro_mattos@hotmail
 - Data Mining
 - Geometric Deep Learning
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaopedromattos)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **joaopedromattos/joaopedromattos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
