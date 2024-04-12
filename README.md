@@ -11,7 +11,7 @@ Feel free to reach me either by social media or email (joao_pedro_mattos@hotmail
 
 ## Research Interests
 - Machine Learning
-- Data Mining
+- Graphs
 - Geometric Deep Learning
 
 
